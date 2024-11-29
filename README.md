@@ -10,3 +10,6 @@ Welcome to the Artificial Intelligence Course Repository! This repository contai
   - **lab-3/**: Code and exercises for Lab 3.
   - **lab-4/**: Code and exercises for Lab 4.
   - **lab-5/**: Code and exercises for Lab 5.
+  - **lab-6/**: Code and exercises for Lab 6.
+  - **lab-7/**: Code and exercises for Lab 7.
+  - **lab-8/**: Code and exercises for Lab 8.
